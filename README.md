@@ -1,2 +1,2 @@
 # gestion_de_note
-Un programme pour gerer les notes des etudiants.
+Un programme pour gérer les notes des etudiants.
